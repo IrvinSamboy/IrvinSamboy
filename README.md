@@ -14,7 +14,7 @@ I'm open to **Backend**, **Fullstack**, and **Software Engineering** roles where
 
 ### 🧑‍💻 About Me
 
-- 🐍 Backend Developer experienced with **Express, MongoDB, SQL, FastAPI, SQLModel, Alembic, Redis, Docker**  
+- 🐍 Backend Developer experienced with **Express, MongoDB, SQL, FastAPI, SpringBoot, Redis, Docker**  
 - ⚡ Currently building **microservice-based architectures** and **distributed systems**  
 - 📚 Always learning: advanced algorithms, data structures, and system design  
 - 🎧 Most productive with music, coffee, and clean code  
